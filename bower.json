@@ -1,0 +1,17 @@
+{
+  "name": "library-rater",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bmccaffray/library-rater",
+  "authors": [
+    "Brett McCaffray"
+  ],
+  "description": "Angular application that displays data from a library. Features to edit and rate individual items in the library.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
